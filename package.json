@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "ethereumjs-abi": "^0.6.5",
-    "openzeppelin-solidity": "1.11.0",
+    "openzeppelin-solidity": "^1.11.0-rc.1",
     "truffle-hdwallet-provider": "0.0.6"
   }
 }
